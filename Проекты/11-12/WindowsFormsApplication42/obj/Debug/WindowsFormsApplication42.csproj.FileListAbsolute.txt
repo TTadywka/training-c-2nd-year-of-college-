@@ -1,0 +1,25 @@
+\\alpha\ip320-22$\мои документы\visual studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe.config
+\\alpha\ip320-22$\мои документы\visual studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.csprojResolveAssemblyReference.cache
+\\alpha\ip320-22$\мои документы\visual studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Form1.resources
+\\alpha\ip320-22$\мои документы\visual studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Properties.Resources.resources
+\\alpha\ip320-22$\мои документы\visual studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.csproj.GenerateResource.Cache
+\\alpha\ip320-22$\мои документы\visual studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe
+\\alpha\ip320-22$\мои документы\visual studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.pdb
+\\alpha\ip320-22$\мои документы\visual studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.exe
+\\alpha\ip320-22$\мои документы\visual studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.pdb
+\\alpha\ip320-22$\мои документы\visual studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.О_себе.resources
+\\alpha\ip320-22$\мои документы\visual studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Пароль.resources
+\\alpha\ip320-22$\Мои документы\Visual Studio 2015\Projects\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.FormOtchet.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe.config
+E:\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe
+E:\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.pdb
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.csproj.AssemblyReference.cache
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Form1.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.FormOtchet.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Properties.Resources.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.О_себе.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Пароль.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.csproj.GenerateResource.cache
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.exe
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.pdb

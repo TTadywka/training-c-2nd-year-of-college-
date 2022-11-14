@@ -1,0 +1,20 @@
+D:\Abobus\6 лба Оаип\bin\Debug\net5.0-windows\6 лба Оаип.exe
+D:\Abobus\6 лба Оаип\bin\Debug\net5.0-windows\6 лба Оаип.deps.json
+D:\Abobus\6 лба Оаип\bin\Debug\net5.0-windows\6 лба Оаип.runtimeconfig.json
+D:\Abobus\6 лба Оаип\bin\Debug\net5.0-windows\6 лба Оаип.runtimeconfig.dev.json
+D:\Abobus\6 лба Оаип\bin\Debug\net5.0-windows\6 лба Оаип.dll
+D:\Abobus\6 лба Оаип\bin\Debug\net5.0-windows\ref\6 лба Оаип.dll
+D:\Abobus\6 лба Оаип\bin\Debug\net5.0-windows\6 лба Оаип.pdb
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\6 лба Оаип.csproj.AssemblyReference.cache
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\_6_лба_Оаип.Form1.resources
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\6 лба Оаип.csproj.GenerateResource.cache
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\6 лба Оаип.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\6 лба Оаип.AssemblyInfoInputs.cache
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\6 лба Оаип.AssemblyInfo.cs
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\6 лба Оаип.csproj.CoreCompileInputs.cache
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\6 лба Оаип.dll
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\ref\6 лба Оаип.dll
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\6 лба Оаип.pdb
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\6 лба Оаип.genruntimeconfig.cache
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\_6_лба_Оаип.Form1 - Копировать.resources
+D:\Abobus\6 лба Оаип\obj\Debug\net5.0-windows\_6_лба_Оаип.Form2.resources

@@ -1,0 +1,55 @@
+E:\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe.config
+E:\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe
+E:\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.pdb
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Properties.Resources.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.О_себе.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Пароль.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\Итоговая.csproj.GenerateResource.cache
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.exe
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.pdb
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Главная.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Отчёт.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Видео.resources
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\Итоговая.csproj.AssemblyReference.cache
+E:\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\Итоговая.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe.config
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.pdb
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\Итоговая.csproj.AssemblyReference.cache
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Видео.resources
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Главная.resources
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Отчёт.resources
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Properties.Resources.resources
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.О_себе.resources
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Пароль.resources
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\Итоговая.csproj.GenerateResource.cache
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\Итоговая.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.exe
+C:\Users\User 1\Desktop\WindowsFormsApplication42\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.pdb
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe.config
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.pdb
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\Итоговая.csproj.AssemblyReference.cache
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Видео.resources
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Главная.resources
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Отчёт.resources
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Properties.Resources.resources
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.О_себе.resources
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Пароль.resources
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\Итоговая.csproj.GenerateResource.cache
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\Итоговая.csproj.CoreCompileInputs.cache
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.exe
+F:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.pdb
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe.config
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.exe
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.pdb
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.exe
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\bin\Debug\WindowsFormsApplication42.pdb
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\Итоговая.csprojResolveAssemblyReference.cache
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Видео.resources
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Главная.resources
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Отчёт.resources
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Properties.Resources.resources
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.О_себе.resources
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\WindowsFormsApplication42.Пароль.resources
+E:\Оаип\Лабы по Оаип\11-12\WindowsFormsApplication42\obj\Debug\Итоговая.csproj.GenerateResource.Cache

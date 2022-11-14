@@ -1,0 +1,76 @@
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\bin\Debug\Zakazy.mdb
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Customers.resources
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Employees.resources
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.EmployeesModels.resources
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Goods.resources
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Models.resources
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Orders.resources
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\bin\Debug\Orders.resx
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\bin\Debug\Orders.cs
+\\alpha\ip320-10$\мои документы\visual studio 2015\Projects\БАЗДА\WindowsFormsApplication5\bin\Debug\Orders.Designer.cs
+E:\OAiP\БАЗДА\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\OAiP\БАЗДА\WindowsFormsApplication5\bin\Debug\Orders.resx
+E:\OAiP\БАЗДА\WindowsFormsApplication5\bin\Debug\Orders.cs
+E:\OAiP\БАЗДА\WindowsFormsApplication5\bin\Debug\Orders.Designer.cs
+E:\OAiP\БАЗДА\WindowsFormsApplication5\bin\Debug\Zakazy.mdb
+E:\OAiP\БАЗДА\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\OAiP\БАЗДА\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Customers.resources
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Employees.resources
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.EmployeesModels.resources
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Goods.resources
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Models.resources
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Orders.resources
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\OAiP\БАЗДА\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\Orders.resx
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\Orders.cs
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\Orders.Designer.cs
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\Zakazy.mdb
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Customers.resources
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Employees.resources
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.EmployeesModels.resources
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Goods.resources
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Models.resources
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Orders.resources
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\Orders.resx
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\Orders.cs
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\Orders.Designer.cs
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\Zakazy.mdb
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Customers.resources
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Employees.resources
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.EmployeesModels.resources
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Goods.resources
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Models.resources
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Orders.resources
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+F:\Оаип\Лабы по Оаип\9-10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,41 @@
+\\alpha\ip320-16$\Мои документы\2 семестр\ОАиП\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\alpha\ip320-16$\Мои документы\2 семестр\ОАиП\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\alpha\ip320-16$\Мои документы\2 семестр\ОАиП\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\alpha\ip320-16$\Мои документы\2 семестр\ОАиП\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\alpha\ip320-16$\Мои документы\2 семестр\ОАиП\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+\\alpha\ip320-16$\Мои документы\2 семестр\ОАиП\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\alpha\ip320-16$\Мои документы\2 семестр\ОАиП\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\alpha\ip320-16$\Мои документы\2 семестр\ОАиП\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\alpha\ip320-16$\Мои документы\2 семестр\ОАиП\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Лови маслину\ЛР\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Лови маслину\ЛР\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Лови маслину\ЛР\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Лови маслину\ЛР\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+E:\Лови маслину\ЛР\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+E:\Лови маслину\ЛР\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Лови маслину\ЛР\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Лови маслину\ЛР\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Лови маслину\ЛР\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Лови маслину\ЛР\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Лови маслину\ЛР\ЛР5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\oaip\l5\brauzer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\oaip\l5\brauzer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\oaip\l5\brauzer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\oaip\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\oaip\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+D:\oaip\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\oaip\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\oaip\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\oaip\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\oaip\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\oaip\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User 1\Desktop\l5\brauzer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User 1\Desktop\l5\brauzer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User 1\Desktop\l5\brauzer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User 1\Desktop\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\User 1\Desktop\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User 1\Desktop\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User 1\Desktop\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\User 1\Desktop\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Desktop\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User 1\Desktop\l5\brauzer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

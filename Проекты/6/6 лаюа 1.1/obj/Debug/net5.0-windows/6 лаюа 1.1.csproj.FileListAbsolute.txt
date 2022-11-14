@@ -1,0 +1,18 @@
+D:\Abobus\6 лаюа 1.1\bin\Debug\net5.0-windows\6 лаюа 1.1.exe
+D:\Abobus\6 лаюа 1.1\bin\Debug\net5.0-windows\6 лаюа 1.1.deps.json
+D:\Abobus\6 лаюа 1.1\bin\Debug\net5.0-windows\6 лаюа 1.1.runtimeconfig.json
+D:\Abobus\6 лаюа 1.1\bin\Debug\net5.0-windows\6 лаюа 1.1.runtimeconfig.dev.json
+D:\Abobus\6 лаюа 1.1\bin\Debug\net5.0-windows\6 лаюа 1.1.dll
+D:\Abobus\6 лаюа 1.1\bin\Debug\net5.0-windows\ref\6 лаюа 1.1.dll
+D:\Abobus\6 лаюа 1.1\bin\Debug\net5.0-windows\6 лаюа 1.1.pdb
+D:\Abobus\6 лаюа 1.1\obj\Debug\net5.0-windows\6 лаюа 1.1.csproj.AssemblyReference.cache
+D:\Abobus\6 лаюа 1.1\obj\Debug\net5.0-windows\_6_лаюа_1._1.Form1.resources
+D:\Abobus\6 лаюа 1.1\obj\Debug\net5.0-windows\6 лаюа 1.1.csproj.GenerateResource.cache
+D:\Abobus\6 лаюа 1.1\obj\Debug\net5.0-windows\6 лаюа 1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abobus\6 лаюа 1.1\obj\Debug\net5.0-windows\6 лаюа 1.1.AssemblyInfoInputs.cache
+D:\Abobus\6 лаюа 1.1\obj\Debug\net5.0-windows\6 лаюа 1.1.AssemblyInfo.cs
+D:\Abobus\6 лаюа 1.1\obj\Debug\net5.0-windows\6 лаюа 1.1.csproj.CoreCompileInputs.cache
+D:\Abobus\6 лаюа 1.1\obj\Debug\net5.0-windows\6 лаюа 1.1.dll
+D:\Abobus\6 лаюа 1.1\obj\Debug\net5.0-windows\ref\6 лаюа 1.1.dll
+D:\Abobus\6 лаюа 1.1\obj\Debug\net5.0-windows\6 лаюа 1.1.pdb
+D:\Abobus\6 лаюа 1.1\obj\Debug\net5.0-windows\6 лаюа 1.1.genruntimeconfig.cache

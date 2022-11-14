@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>_6_лба_Оаип</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Form1 - Копировать.resx">
+      <DependentUpon>Form1.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
